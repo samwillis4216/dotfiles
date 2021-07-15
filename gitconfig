@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = samwilliswork@gmail.com
+	name = Sam
